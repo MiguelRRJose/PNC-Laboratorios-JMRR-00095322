@@ -3,7 +3,7 @@ package com.example.labo03.mapper;
 import com.example.labo03.domain.entity.Specimen;
 import com.example.labo03.dto.request.CreateSpecimenRequest;
 import com.example.labo03.dto.request.UpdateSpecimenRequest;
-import com.example.labo03.dto.response.SpecimenResponse;
+import com.example.labo03.dto.response.specimen.SpecimenResponse;
 import org.springframework.data.domain.Page;
 import org.springframework.stereotype.Component;
 

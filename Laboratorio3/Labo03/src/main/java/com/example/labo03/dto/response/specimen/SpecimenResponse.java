@@ -1,4 +1,4 @@
-package com.example.labo03.dto.response;
+package com.example.labo03.dto.response.specimen;
 
 import lombok.*;
 import java.util.UUID;
